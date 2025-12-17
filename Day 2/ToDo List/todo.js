@@ -1,4 +1,4 @@
-todos = ["Learn JS", "Do Assignment","Take Break"]
+todos = ["Learn JS", "Do Assignments","Take Break"]
 
 function displayTodos(todos) {
     console.log("My ToDo List:")
